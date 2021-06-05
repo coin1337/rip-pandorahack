@@ -1,0 +1,13 @@
+[
+{
+	"modid": "pandora",
+	"name": "PandoraHack+",
+	"description": "1.12.2 Anarchy Client.",
+	"version": "1.2",
+	"mcversion": "1.12.2",
+	"authorList": ["Erynial"],
+	"logoFile": "assets/pandora/pandora.png",
+	"screenshots": [],
+	"dependencies": []
+}
+]

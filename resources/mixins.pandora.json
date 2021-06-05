@@ -1,0 +1,28 @@
+{
+"required": true,
+"compatibilityLevel": "JAVA_8",
+"package": "com.pandora.api.mixin.mixins",
+"refmap": "mixins.pandora.refmap.json",
+"mixins": [
+	"MixinNetworkManager",
+	"MixinEntity",
+	"MixinGuiNewChat",
+	"MixinMovementInputFromOptions",
+	"MixinEntityRenderer",
+	"MixinAbstractClientPlayer",
+	"MixinLayerBipedArmor",
+	"MixinPlayerControllerMP",
+	"MixinEntityPlayer",
+	"MixinBlockSoulSand",
+	"MixinEntityPlayerSP",
+	"MixinMinecraft",
+	"MixinGuiPlayerTabOverlay",
+	"MixinGuiBossOverlay",
+	"MixinGuiScreen",
+	"MixinRenderPlayer",
+	"MixinWorld",
+	"MixinPlayerOverlay",
+	"MixinBlockLiquid",
+	"MixinItemRenderer"
+]
+}
